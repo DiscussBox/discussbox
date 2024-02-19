@@ -15,7 +15,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@formspree/react": "^2.5.1",
+    "@headlessui/react": "^1.7.18",
     "@mdx-js/react": "^3.0.1",
+    "caniuse-lite": "^1.0.30001587",
     "gatsby": "^5.13.2",
     "gatsby-plugin-google-gtag": "^5.13.1",
     "gatsby-plugin-image": "^3.13.1",
@@ -23,6 +26,7 @@
     "gatsby-plugin-mdx": "^5.13.1",
     "gatsby-plugin-sharp": "^5.13.1",
     "gatsby-plugin-sitemap": "^6.13.1",
+    "gatsby-plugin-webfonts": "^2.3.2",
     "gatsby-source-filesystem": "^5.13.1",
     "gatsby-source-sanity": "^7.9.1",
     "gatsby-transformer-sharp": "^5.13.1",
