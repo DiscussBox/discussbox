@@ -56,15 +56,6 @@ module.exports = {
         icon: "src/assets/images/favicon.jpg",
       },
     },
-    "gatsby-plugin-mdx",
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "images",
-        path: "./src/assets/images/",
-      },
-      __key: "images",
-    },
     {
       resolve: "gatsby-source-filesystem",
       options: {
