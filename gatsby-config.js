@@ -7,8 +7,8 @@ require("dotenv").config({
 });
 module.exports = {
   siteMetadata: {
-    title: `DiscussBox`,
-    description: `DiscussBox official website, know all about the DiscussBox platform`,
+    title: `DiscussBox - The Official Website`,
+    description: `DiscussBox a community based platform that allows users to share and access structured and diverse learning resources, collaborate with a vibrant community, both online and offline`,
     image: `src/assets/images/favicon.jpg`,
     siteUrl: `https://www.discussbox.social`,
   },
