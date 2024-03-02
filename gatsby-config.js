@@ -8,6 +8,8 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: `DiscussBox`,
+    description: `DiscussBox official website, know all about the DiscussBox platform`,
+    image: `src/assets/images/favicon.jpg`,
     siteUrl: `https://www.discussbox.social`,
   },
   plugins: [
