@@ -4,6 +4,7 @@ import "../assets/css/main.css";
 import FeaturesList from "../components/FeaturesList";
 import Footer from "../components/Footer";
 import CallToAction from "../components/CallToAction";
+import { SEO } from "../components/seo";
 const index = () => {
   return (
     <div>
@@ -26,3 +27,5 @@ const index = () => {
 };
 
 export default index;
+
+export const Head = () => <SEO />;
