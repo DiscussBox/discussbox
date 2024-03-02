@@ -7,10 +7,10 @@ require("dotenv").config({
 });
 module.exports = {
   siteMetadata: {
-    title: `DiscussBox - The Official Website`,
-    description: `DiscussBox a community based platform that allows users to share and access structured and diverse learning resources, collaborate with a vibrant community, both online and offline`,
-    image: `src/assets/images/favicon.jpg`,
-    siteUrl: `https://www.discussbox.social`,
+    title: `DiscussBox - Your All-in-One Learning Platform`,
+    description: `A community based platform that allows users to share and access structured and diverse learning resources, collaborate with a vibrant community, both online and offline`,
+    siteUrl: `https://discussbox.social`,
+    image: "src/assets/images/favicon.jpg",
   },
   plugins: [
     {
