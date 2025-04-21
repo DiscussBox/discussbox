@@ -5,7 +5,7 @@ import Hero from "../components/Hero";
 import FeaturesList from "../components/FeaturesList";
 import Footer from "../components/Footer";
 import CallToAction from "../components/CallToAction";
-import { SEO } from "../components/seo";
+import { Seo } from "../components/Seo";
 const index = () => {
   return (
     <div>
@@ -29,4 +29,4 @@ const index = () => {
 
 export default index;
 
-export const Head = () => <SEO />;
+export const Head = () => <Seo />;

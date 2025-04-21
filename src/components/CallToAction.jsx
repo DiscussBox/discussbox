@@ -11,7 +11,7 @@ const CallToAction = () => {
       </div>
       <div className="cta__signup">
         <div className="cta__signup-text">
-          <h6>Sign Up To Our WaitList!</h6>
+          <p>Sign Up To Our WaitList!</p>
         </div>
         <div className="cta__signup-form">
           <WaitListForm colorClass="dialog-button" />
