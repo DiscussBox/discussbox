@@ -1,6 +1,7 @@
 import React from "react";
-import Hero from "../components/Hero";
 import "../assets/css/main.css";
+
+import Hero from "../components/Hero";
 import FeaturesList from "../components/FeaturesList";
 import Footer from "../components/Footer";
 import CallToAction from "../components/CallToAction";
